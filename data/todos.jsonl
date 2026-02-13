@@ -1,0 +1,5 @@
+{"id":"todo_001","project":"swarm-cro","title":"Research existing A/B testing tools and AI CRO landscape","status":"in-progress","priority":"high","createdAt":"2026-02-13T00:59:00Z","updatedAt":"2026-02-13T00:59:00Z"}
+{"id":"todo_002","project":"swarm-cro","title":"Research agent swarm architectures for web testing","status":"todo","priority":"high","createdAt":"2026-02-13T00:59:00Z","updatedAt":"2026-02-13T00:59:00Z"}
+{"id":"todo_003","project":"swarm-cro","title":"Research synthetic user simulation approaches","status":"todo","priority":"medium","createdAt":"2026-02-13T00:59:00Z","updatedAt":"2026-02-13T00:59:00Z"}
+{"id":"todo_004","project":"swarm-cro","title":"Define MVP scope and core features","status":"todo","priority":"high","createdAt":"2026-02-13T00:59:00Z","updatedAt":"2026-02-13T00:59:00Z"}
+{"id":"todo_005","project":"swarm-cro","title":"Research URL-to-HTML extraction and modification approaches","status":"todo","priority":"medium","createdAt":"2026-02-13T00:59:00Z","updatedAt":"2026-02-13T00:59:00Z"}
