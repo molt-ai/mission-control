@@ -1,0 +1,56 @@
+{
+  "jobs": [
+    {
+      "id": "da04eab2-3694-4328-8b62-0ef59cb94cfe",
+      "name": "Repo Scout",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */4 * * *",
+        "tz": "America/New_York"
+      },
+      "nextRunAtMs": 1770944400000,
+      "lastRunAtMs": 1770930000018,
+      "lastStatus": "ok"
+    },
+    {
+      "id": "debdd99a-be95-40a9-93f4-e84b9de4dc59",
+      "name": "Morning Brief",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 8 * * *",
+        "tz": "America/New_York"
+      },
+      "nextRunAtMs": 1770987600000,
+      "lastRunAtMs": 1770901200113,
+      "lastStatus": "ok"
+    },
+    {
+      "id": "fffd8a55-d3d1-4085-b939-c6261af91aee",
+      "name": "Arb Bot Daily Report",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 9 * * *",
+        "tz": "America/New_York"
+      },
+      "nextRunAtMs": 1770991200000,
+      "lastRunAtMs": 1770904800002,
+      "lastStatus": "ok"
+    },
+    {
+      "id": "44cfbf70-72c5-4ee3-85ab-f73afb25a932",
+      "name": "Afternoon Research Report",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 * * *",
+        "tz": "America/New_York"
+      },
+      "nextRunAtMs": 1771009200000,
+      "lastRunAtMs": 1770922800034,
+      "lastStatus": "ok"
+    }
+  ]
+}
